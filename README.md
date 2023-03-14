@@ -14,7 +14,7 @@ Clone this repository to your local machine.
 Open a terminal window in the project directory.
 Install the dependencies by running the following command: npm install
 Start the development server by running the following command: npm run dev
-Open a web browser and navigate to http://localhost:5000 to view the food ordering UI.
+Open a web browser and navigate to http://localhost:5173 to view the food ordering UI.
 Features
 
 ## The food ordering UI includes the following features:
