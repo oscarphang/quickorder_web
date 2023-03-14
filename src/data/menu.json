@@ -1,0 +1,124 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "TEH",
+            "description": "",
+            "category": "drinks",
+            "type": "local drinks",           
+            "priceByType":{
+                "Hot (small)":2.2,
+                "Hot (large)":3,
+                "Cold":3
+            }
+        },
+        {
+            "id": 2,
+            "name": "COFFEE",
+            "description": "",
+            "category": "drinks",
+            "type": "local drinks",
+            "priceByType":{
+                "Hot (small)":2.2,
+                "Hot (large)":3,
+                "Cold":3
+            }
+        },
+        {
+            "id": 3,
+            "name": "CHAM",
+            "description": "",
+            "category": "drinks",
+            "type": "local drinks",
+            "priceByType":{
+                "Hot (small)":2.2,
+                "Hot (large)":3,
+                "Cold":3
+            }
+        },
+        {
+            "id": 4,
+            "name": "MILO/COCO",
+            "description": "",
+            "category": "drinks",
+            "type": "local drinks",
+            "priceByType":{
+                "Hot (small)":3,
+                "Hot (large)":3.5,
+                "Cold":3.5
+            }
+        },
+        {
+            "id": 5,
+            "name": "NESCAFE",
+            "description": "",
+            "category": "drinks",
+            "type": "local drinks",
+            "priceByType":{
+                "Hot (small)":3,
+                "Hot (large)":3.5,
+                "Cold":3.5
+            }
+        },
+        {
+            "id": 6,
+            "name": "NESLO",
+            "description": "",
+            "category": "drinks",
+            "type": "ala cart drink",
+            "priceByType":{
+                "Hot (small)":3.5,
+                "Hot (large)":4,
+                "Cold":4
+            }
+        },
+        {
+            "id": 7,
+            "name": "NESCO",
+            "description": "",
+            "category": "drinks",
+            "type": "ala cart drink",
+            "priceByType":{
+                "Hot (small)":3.5,
+                "Hot (large)":4,
+                "Cold":4
+            }
+        },
+        {
+            "id": 8,
+            "name": "HERBAL TEA",
+            "description": "",
+            "category": "drinks",
+            "type": "ala cart drink",
+            "priceByType":{
+                "Hot (small)":2.4,
+                "Hot (large)":2.4,
+                "Cold":2.4
+            }
+        },
+        {
+            "id": 9,
+            "name": "CHINESE TEA",
+            "description": "",
+            "category": "drinks",
+            "type": "ala cart drink",
+            "priceByType":{
+                "Hot (small)":1,
+                "Hot (large)":1,
+                "Cold":1
+            }
+        },
+        {
+            "id": 10,
+            "name": "WATER",
+            "description": "",
+            "category": "drinks",
+            "type": "ala cart drink",
+            "priceByType":{
+                "Hot (small)":0.8,
+                "Hot (large)":0.8,
+                "Cold":0.8
+            }
+        }
+    ]
+}

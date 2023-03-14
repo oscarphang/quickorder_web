@@ -1,0 +1,48 @@
+{
+    "pot tea":{}, 
+    "can drinks":{},
+    "ala cart drink":{},
+    "local drinks":{
+        "Variety": [
+            "normal",
+            "C",
+            "O"
+        ], 
+        "Sugar level": [
+            "normal sugar",
+            "less sugar",
+            "no sugar"
+        ]
+    },
+    "pot tea1": {
+        "How many cups?": [
+            "1 cup",
+            "2 cups",
+            "3 cups",
+            "4 cups",
+            "5 cups",
+            "6 cups"
+        ],
+        "with ice?": [
+            "with ice",
+            "no ice"
+        ]
+    },
+    "can drinks1": {
+        "temperature": [
+            "cold",
+            "normal temperature"
+        ]
+    },
+    "ala cart drink1": {
+        "ice level": [
+            "normal ice",
+            "less ice"
+        ],
+        "Sugar level": [
+            "normal sugar",
+            "less sugar",
+            "no sugar"
+        ]
+    }
+}
